@@ -8,6 +8,7 @@ Install backend on your server:
    3. initialize go module (go mod init updater)
    4. build updater application (go build .)
    5. run application (./updater)
+   
 After the first launch, a conf directory will be created. First line in file conf/server.conf is ip address, second line is a port (default port is 8321)
 Configure your ip and restart server.
     You need to put your mods in .zip archive in html folder.
