@@ -11,7 +11,7 @@ $Global:main_form.MinimumSize = New-Object System.Drawing.Size(600,400)
 
 $Global:address
 $Global:port
-$Global:defaultAddress = "192.168.1.66"
+$Global:defaultAddress = "localhost"
 $Global:defaultPort = "8321"
 
 
